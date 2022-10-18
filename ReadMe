@@ -1,3 +1,6 @@
+This github code contains scripts and data for the article: "A machine learning approach to analyse and predict the electric cars scenario: the Italian case" by Federico Miconi and Giovanna Maria Dimitri. 
+Please cite the article when using the data or our code.
+
 Brief description of the folders:
 
 ●	Project_code.ipynb: jupyter notebook containing scripts for the survey and dataset analysis 
