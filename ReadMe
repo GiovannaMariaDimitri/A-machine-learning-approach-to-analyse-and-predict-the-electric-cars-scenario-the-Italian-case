@@ -1,0 +1,11 @@
+Brief description of the folders:
+
+●	Project_code.ipynb: jupyter notebook containing scripts for the survey and dataset analysis 
+
+●	Survey_DATA: this folder contains the word file of the survey and the corresponding collected dataset which is saved in data .csv
+
+●	Datasets: this folder contains all the data that have been collected and used for the purpose of the project. They are organized as follow:
+
+○	GeoPandas: data used for plotting the maps
+○	Datasets_Regions: all the regional data collected from 2015 up to 2019
+○	Datasets_Province: all the provincial data collected from 2015 up to 2019
